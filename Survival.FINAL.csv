@@ -1,0 +1,348 @@
+ring,line,sex,replicate,tarsus,cause.death,time,status,generation,family
+A2014,H,Male,1,38.1,Natural Death,795,1,5,A1523
+A2019,H,Female,1,39.8,Natural Death,814,1,5,A1532
+A2020,L,Female,1,37.4,Euthanised due to health reason,854,1,5,A1651
+A2022,L,Female,1,39.3,Euthanised due to health reason,840,1,5,A1507
+A2036,H,Female,1,38.1,NA,1087,0,5,A1618
+A2039,H,Female,1,38.6,Euthanised due to health reason,93,1,5,A1546
+A2041,H,Male,1,39.1,Natural Death,1040,1,5,A1564
+A2042,L,Female,1,37.8,Natural Death,773,1,5,A1614
+A2044,H,Male,1,40,NA,1086,0,5,A1556
+A2050,H,Female,1,37.3,Natural Death,348,1,5,A1635
+A2054,H,Female,1,38.4,Natural Death,497,1,5,A1595
+A2055,H,Female,1,38.9,Euthanised due to health reason,93,1,5,A1532
+A2057,L,Male,1,40.3,NA,1087,0,5,A1483
+A2058,L,Female,1,38.6,Euthanised due to health reason,423,1,5,A1553
+A2063,H,Female,1,40.5,Natural Death,764,1,5,A1595
+A2079,L,Female,1,36.4,Euthanised due to health reason,870,1,5,A1630
+A2107,L,Male,1,36.3,NA,1080,0,5,A1616
+A2108,L,Female,1,38.5,NA,1080,0,5,A1651
+A2109,H,Female,1,39.2,Natural Death,840,1,5,A1546
+A2113,H,Female,1,38.6,NA,1080,0,5,A1546
+A2114,L,Male,1,38.1,NA,1080,0,5,A1651
+A2120,H,Female,1,39.1,Euthanised due to health reason,535,1,5,A1618
+A2122,L,Female,1,37.1,Euthanised due to health reason,417,1,5,A1614
+A2123,H,Female,1,40.5,Euthanised due to health reason,812,1,5,A1564
+A2129,L,Female,1,41.8,NA,1080,0,5,A1529
+A2131,L,Female,1,40.7,Euthanised due to health reason,769,1,5,A1529
+A2135,H,Female,1,40.1,NA,1080,0,5,A1564
+A2140,L,Male,1,39.2,NA,1080,0,5,A1529
+A2144,H,Female,1,40.7,Euthanised due to health reason,581,1,5,A1556
+A2150,L,Female,1,40,Euthanised due to health reason,665,1,5,A1483
+A2155,H,Male,1,39.2,NA,1080,0,5,A1532
+A2163,H,Male,1,38.9,NA,1080,0,5,A1618
+A2166,L,Female,1,36.7,Natural Death,794,1,5,A1616
+A2168,H,Female,1,38.8,Natural Death,738,1,5,A1532
+A2169,L,Female,1,37.1,Natural Death,728,1,5,A1553
+A2170,L,Male,1,37.4,NA,1080,0,5,A1630
+A2177,L,Female,1,37.5,Euthanised due to health reason,87,1,5,A1553
+A2239,L,Female,2,36.9,Natural Death,901,1,5,A1794
+A2240,H,Female,2,41.4,Natural Death,717,1,5,A1772
+A2245,H,Male,2,38.2,NA,1045,0,5,A1791
+A2250,L,Female,2,39.2,NA,1044,0,5,A1760
+A2254,L,Male,2,38.9,NA,1045,0,5,A1785
+A2255,H,Female,2,40.9,Natural Death,779,1,5,A1748
+A2256,L,Male,2,37.3,NA,1045,0,5,A1794
+A2261,H,Female,2,38.4,Natural Death,418,1,5,A1761
+A2263,L,Female,2,39,Natural Death,722,1,5,A1686
+A2268,H,Male,2,38.4,NA,1045,0,5,A1761
+A2269,L,Female,2,38.5,Natural Death,788,1,5,A1695
+A2276,L,Male,2,36.8,NA,1045,0,5,A1695
+A2279,H,Female,2,39.2,Natural Death,442,1,5,A1761
+A2289,L,Female,2,40,Euthanised due to health reason,533,1,5,A1785
+A2290,L,Male,2,36.6,NA,1045,0,5,A1699
+A2292,L,Female,2,38.2,Natural Death,693,1,5,A1734
+A2303,L,Female,2,36.7,Natural Death,105,1,5,A1699
+A2304,H,Male,2,38.9,NA,1045,0,5,A1762
+A2305,H,Female,2,37.2,Natural Death,375,1,5,A1674
+A2308,L,Female,2,37.2,Euthanised due to health reason,111,1,5,A1760
+A2317,H,Female,2,35.7,Natural Death,113,1,5,A1738
+A2349,L,Male,2,37.8,NA,1038,0,5,A1734
+A2357,L,Female,2,38.1,Euthanised due to health reason,730,1,5,A1734
+A2366,H,Male,2,39.2,NA,1038,0,5,A1749
+A2370,L,Female,2,38.1,Euthanised due to health reason,653,1,5,A1760
+A2371,L,Male,2,37,NA,1038,0,5,A1686
+A2374,L,Female,2,38.4,NA,1038,0,5,A1785
+A2384,H,Female,2,38.9,Natural Death,686,1,5,A1719
+A2387,H,Male,2,38.4,Euthanised due to health reason,406,1,5,A1674
+A2391,L,Female,2,40.1,NA,1038,0,5,A1695
+A2393,H,Male,2,38.3,NA,1038,0,5,A1780
+A2394,H,Female,2,38.6,Euthanised due to health reason,406,1,5,A1719
+A2398,H,Female,2,37.1,Natural Death,396,1,5,A1674
+A2400,H,Male,2,39.6,NA,1038,0,5,A1748
+A2403,L,Female,2,40,NA,1038,0,5,A1736
+A2407,L,Female,2,38.4,Natural Death,172,1,5,A1794
+A2409,H,Female,2,38.8,Euthanised due to health reason,514,1,5,A1791
+A2410,H,Female,2,38.8,Natural Death,505,1,5,A1748
+A2423,L,Male,2,38.3,NA,1038,0,5,A1736
+A2424,H,Female,2,37.3,Natural Death,626,1,5,A1772
+A2425,L,Male,2,35.7,NA,1038,0,5,A1661
+A2428,L,Female,2,39,Natural Death,414,1,5,A1686
+A2449,L,Male,2,40.7,Natural Death,686,1,5,A1734
+A2455,H,Female,2,38.5,Natural Death,89,1,5,A1738
+A2473,L,Female,1,40.6,Euthanised due to health reason,45,1,5,A1487
+A2508,L,Male,1,38.9,Euthanised due to health reason,864,1,5,A1604
+A2509,L,Male,1,39.5,NA,1010,0,5,A1487
+A2519,L,Male,1,36.5,NA,1009,0,5,A1633
+A2524,H,Female,1,36.9,Euthanised due to health reason,389,1,5,A1502
+A2527,L,Female,1,40.2,Natural Death,775,1,5,A1633
+A2532,H,Female,1,39.5,Euthanised due to health reason,821,1,5,A1648
+A2540,L,Female,1,38.2,Natural Death,98,1,5,A1604
+A2548,H,Female,1,38.1,Euthanised due to health reason,645,1,5,A1637
+A2551,L,Male,1,38.3,NA,1010,0,5,A1568
+A2555,H,Male,1,39.6,NA,1010,0,5,A1515
+A2556,H,Male,1,39.1,NA,1010,0,5,A1537
+A2559,H,Female,1,38.1,Natural Death,720,1,5,A1622
+A2562,H,Male,1,38.7,NA,1010,0,5,A1622
+A2565,L,Female,1,38.9,Natural Death,50,1,5,A1484
+A2566,H,Female,1,38.1,NA,1010,0,5,A1537
+A2614,L,Male,1,38.6,NA,1003,0,5,A1524
+A2620,L,Female,1,38.5,NA,1003,0,5,A1487
+A2623,L,Female,1,37.2,Natural Death,704,1,5,A1633
+A2624,H,Male,1,42.3,Natural Death,856,1,5,A1512
+A2625,H,Male,1,39,NA,1003,0,5,A1648
+A2626,H,Male,1,38.8,NA,1003,0,5,A1573
+A2627,L,Female,1,39.2,NA,1003,0,5,A1487
+A2628,L,Female,1,39.2,NA,1003,0,5,A1604
+A2629,L,Female,1,36.6,Natural Death,176,1,5,A1484
+A2635,H,Female,1,37.2,Euthanised due to health reason,433,1,5,A1637
+A2639,H,Male,1,37.8,NA,1003,0,5,A1615
+A2642,H,Female,1,40.1,Natural Death,329,1,5,A1573
+A2648,L,Female,1,36.4,NA,1002,0,5,A1568
+A2649,H,Female,1,38.7,Euthanised due to health reason,141,1,5,A1615
+A2652,L,Female,1,38.1,NA,1002,0,5,A1568
+A2653,H,Male,1,35.5,NA,1002,0,5,A1637
+A2657,H,Female,1,40.4,Natural Death,675,1,5,A1648
+A2658,L,Female,1,37.2,NA,1003,0,5,A1582
+A2663,H,Female,1,39.9,Natural Death,299,1,5,A1515
+A2671,L,Female,1,37.5,Euthanised due to health reason,505,1,5,A1580
+A2672,L,Female,1,38.2,NA,1003,0,5,A1484
+A2673,L,Female,1,36.9,Natural Death,338,1,5,A1524
+A2678,H,Female,1,38.1,Natural Death,721,1,5,A1515
+A2679,L,Female,1,38.9,Euthanised due to health reason,701,1,5,A1582
+A2681,H,Female,1,38.3,NA,1003,0,5,A1615
+A2683,L,Male,1,35.8,Natural Death,974,1,5,A1625
+A2684,L,Male,1,31.6,NA,1003,0,5,A1582
+A2720,L,Male,2,39,NA,961,0,5,A1787
+A2730,L,Male,2,36.9,Natural Death,721,1,5,A1683
+A2734,H,Female,2,39.7,Natural Death,779,1,5,A1712
+A2735,L,Female,2,37.3,Euthanised due to health reason,683,1,5,A1787
+A2737,H,Male,2,40.5,NA,961,0,5,A1712
+A2744,H,Male,2,38.8,Euthanised due to health reason,392,1,5,A1742
+A2752,L,Female,2,36.1,Euthanised due to health reason,694,1,5,A1795
+A2761,L,Male,2,36,Natural Death,691,1,5,A1723
+A2762,H,Female,2,39.1,Natural Death,697,1,5,A1691
+A2770,L,Female,2,37.6,Natural Death,401,1,5,A1709
+A2776,L,Male,2,36,Natural Death,912,1,5,A1717
+A2782,L,Female,2,37.6,Natural Death,285,1,5,A1787
+A2784,L,Male,2,37.7,NA,961,0,5,A1787
+A2786,H,Female,2,38.9,NA,961,0,5,A1703
+A2787,H,Female,2,37.2,Natural Death,706,1,5,A1700
+A2790,L,Male,2,35.2,Natural Death,685,1,5,A1723
+A2793,H,Female,2,39.7,NA,961,0,5,A1704
+A2794,H,Female,2,38.2,Euthanised due to health reason,680,1,5,A1704
+A2829,L,Female,2,37.8,NA,954,0,5,A1717
+A2831,H,Male,2,38,NA,954,0,5,A1700
+A2836,H,Female,2,39,Euthanised due to health reason,660,1,5,A1742
+A2842,L,Female,2,37.3,Natural Death,246,1,5,A1709
+A2843,L,Female,2,38.5,Euthanised due to health reason,375,1,5,A1723
+A2848,L,Female,2,35.7,Euthanised due to health reason,539,1,5,A1717
+A2849,H,Female,2,38.7,NA,954,0,5,A1742
+A2850,L,Female,2,37.5,Natural Death,671,1,5,A1683
+A2851,H,Female,2,39.4,Natural Death,779,1,5,A1742
+A2854,L,Male,2,36.8,NA,954,0,5,A1709
+A2859,L,Male,2,37.9,Euthanised due to health reason,584,1,5,A1795
+A2861,H,Male,2,39.3,NA,954,0,5,A1703
+A2865,H,Female,2,37.6,Natural Death,350,1,5,A1700
+A2867,H,Female,2,39.2,NA,954,0,5,A1741
+A2873,H,Male,2,38.5,NA,954,0,5,A1691
+A2879,L,Female,2,39.5,Natural Death,547,1,5,A1727
+A2893,H,Female,2,41.2,NA,953,0,5,A1765
+A2900,H,Female,2,38.8,Natural Death,630,1,5,A1664
+A2903,H,Female,2,39.5,Euthanised due to health reason,333,1,5,A1691
+A2904,H,Female,2,37.8,NA,954,0,5,A1741
+A2910,H,Female,2,37.3,Euthanised due to health reason,282,1,5,A1664
+A2913,L,Female,2,39,Euthanised due to health reason,707,1,5,A1787
+A3134,H,Female,1,40.1,NA,652,0,6,A2678
+A3135,H,Female,2,36.9,Natural Death,269,1,6,A2865
+A3136,L,Male,1,39.2,NA,652,0,6,A2108
+A3137,L,Female,2,37.5,Natural Death,438,1,6,A2879
+A3138,H,Male,2,40.3,NA,652,0,6,A2734
+A3141,H,Male,1,37.7,NA,652,0,6,A2168
+A3142,H,Female,1,35.8,Euthanised due to health reason,290,1,6,A2168
+A3143,L,Male,2,37.6,Natural Death,314,1,6,A2850
+A3144,L,Female,2,37,Natural Death,395,1,6,A2292
+A3145,L,Male,1,37.8,NA,652,0,6,A2108
+A3146,H,Male,1,38.8,NA,652,0,6,A2168
+A3147,L,Female,1,38.5,Natural Death,131,1,6,A2671
+A3148,L,Female,2,37.5,NA,652,0,6,A2735
+A3149,L,Male,1,38.2,Natural Death,349,1,6,A2131
+A3150,L,Male,2,36.4,Natural Death,575,1,6,A2850
+A3151,L,Male,1,39.8,NA,652,0,6,A2131
+A3152,L,Male,2,37.3,NA,652,0,6,A2735
+A3153,H,Male,1,37.7,NA,652,0,6,A2168
+A3155,H,Female,2,37.7,Natural Death,303,1,6,A2865
+A3156,L,Female,2,37.5,Euthanised due to health reason,419,1,6,A2879
+A3157,L,Male,2,37.9,Natural Death,387,1,6,A2879
+A3158,L,Female,1,38.7,Natural Death,473,1,6,A2671
+A3160,H,Female,2,38,Natural Death,291,1,6,A2865
+A3161,H,Male,2,36.4,Natural Death,404,1,6,A2865
+A3162,L,Female,1,38.5,NA,652,0,6,A2108
+A3163,H,Female,1,38,Natural Death,309,1,6,A2168
+A3165,H,Female,1,39.5,Natural Death,440,1,6,A2678
+A3166,L,Male,1,37.7,NA,652,0,6,A2671
+A3168,H,Female,2,40.3,Natural Death,545,1,6,A2384
+A3169,H,Male,1,39.1,NA,652,0,6,A2054
+A3170,L,Male,2,37.9,NA,652,0,6,A2357
+A3171,L,Male,2,37.6,NA,652,0,6,A2357
+A3172,H,Female,2,39.3,Euthanised due to health reason,385,1,6,A2384
+A3173,L,Female,2,39.5,NA,652,0,6,A2357
+A3174,H,Female,2,38.8,NA,652,0,6,A2836
+A3175,L,Male,2,38.3,NA,652,0,6,A2391
+A3176,H,Female,1,38.3,NA,652,0,6,A2135
+A3177,H,Male,2,39.3,NA,652,0,6,A2279
+A3179,H,Male,1,37.6,NA,652,0,6,A2036
+A3180,H,Male,1,38,NA,652,0,6,A2054
+A3182,H,Male,1,40.3,NA,652,0,6,A2548
+A3183,H,Female,2,37.8,NA,652,0,6,A2836
+A3184,H,Male,2,40.1,NA,652,0,6,A2384
+A3187,H,Female,1,38.6,NA,652,0,6,A2524
+A3188,H,Male,1,37.4,Natural Death,61,1,6,A2036
+A3189,H,Male,2,38.6,NA,652,0,6,A2836
+A3192,H,Male,2,39,NA,652,0,6,A2279
+A3193,H,Female,1,40.2,NA,652,0,6,A2113
+A3194,H,Female,1,40.7,NA,652,0,6,A2063
+A3195,H,Male,2,37.7,NA,652,0,6,A2794
+A3196,H,Female,2,39,Euthanised due to health reason,64,1,6,A2398
+A3198,H,Male,1,38.1,NA,652,0,6,A2566
+A3199,L,Male,1,36,NA,652,0,6,A2169
+A3200,H,Female,1,39.6,NA,652,0,6,A2054
+A3202,H,Female,2,37.3,Natural Death,292,1,6,A2794
+A3203,H,Male,1,38.7,NA,652,0,6,A2566
+A3204,H,Male,1,37.9,Natural Death,392,1,6,A2054
+A3205,H,Female,2,38.4,Natural Death,260,1,6,A2794
+A3206,H,Female,1,39.1,Natural Death,148,1,6,A2054
+A3207,H,Female,1,38.4,Natural Death,365,1,6,A2559
+A3208,H,Female,1,39,Natural Death,372,1,6,A2063
+A3209,H,Female,1,40.1,Natural Death,296,1,6,A2113
+A3211,H,Male,1,41.8,NA,652,0,6,A2113
+A3212,H,Male,1,39.1,NA,652,0,6,A2063
+A3214,H,Female,1,39.9,Natural Death,310,1,6,A2063
+A3215,H,Male,2,37.8,NA,652,0,6,A2398
+A3218,H,Male,2,38.8,NA,652,0,6,A2794
+A3219,H,Female,2,40.6,Euthanised due to health reason,419,1,6,A2904
+A3220,L,Male,1,37.6,NA,652,0,6,A2652
+A3221,L,Female,2,38.1,Euthanised due to health reason,344,1,6,A2843
+A3222,L,Male,1,37.1,NA,652,0,6,A2150
+A3223,L,Male,1,36.6,NA,652,0,6,A2672
+A3224,H,Male,2,37.7,Natural Death,273,1,6,A2893
+A3225,H,Male,2,40,NA,652,0,6,A2786
+A3226,H,Male,2,38.7,NA,652,0,6,A2786
+A3227,H,Female,2,39.6,Euthanised due to health reason,434,1,6,A2893
+A3228,H,Female,2,37.7,Euthanised due to health reason,398,1,6,A2786
+A3229,L,Female,1,37.2,NA,652,0,6,A2672
+A3231,L,Female,2,38.8,Natural Death,369,1,6,A2770
+A3232,L,Male,2,38,NA,652,0,6,A2770
+A3233,L,Male,2,36.7,Natural Death,302,1,6,A2428
+A3235,L,Male,2,39.6,NA,652,0,6,A2843
+A3236,L,Male,1,36.7,NA,652,0,6,A2672
+A3237,L,Male,2,38.3,NA,652,0,6,A2770
+A3238,H,Female,1,41.5,Natural Death,371,1,6,A2113
+A3239,H,Female,1,35.7,NA,645,0,6,A2566
+A3242,H,Female,2,40,Natural Death,353,1,6,A2762
+A3243,H,Male,1,38.9,NA,645,0,6,A2559
+A3244,H,Female,1,38.3,Euthanised due to health reason,469,1,6,A2566
+A3245,H,Female,1,38.5,Natural Death,397,1,6,A2566
+A3246,H,Male,1,38.3,NA,645,0,6,A2559
+A3247,H,Male,1,40,Natural Death,352,1,6,A2113
+A3248,H,Female,2,40.5,NA,645,0,6,A2762
+A3249,H,Male,2,40.3,NA,645,0,6,A2762
+A3250,H,Female,1,40.2,Natural Death,378,1,6,A2559
+A3251,H,Male,2,39.9,NA,645,0,6,A2762
+A3252,H,Female,1,39.3,Natural Death,149,1,6,A2559
+A3254,L,Male,1,37.3,NA,645,0,6,A2042
+A3255,L,Male,2,37,NA,645,0,6,A2403
+A3256,L,Female,2,37.2,Natural Death,393,1,6,A2403
+A3257,L,Female,2,36.9,Natural Death,372,1,6,A2848
+A3258,L,Female,2,37,Natural Death,361,1,6,A2770
+A3261,L,Female,1,36.7,NA,645,0,6,A2042
+A3262,L,Female,1,39.3,NA,645,0,6,A2652
+A3263,L,Female,2,37.3,NA,645,0,6,A2770
+A3264,L,Male,2,38.7,NA,645,0,6,A2428
+A3265,L,Female,1,37.5,Euthanised due to health reason,383,1,6,A2169
+A3266,L,Male,1,39.6,NA,645,0,6,A2652
+A3267,H,Female,2,39.7,Natural Death,378,1,6,A2904
+A3268,L,Female,1,40,Natural Death,405,1,6,A2150
+A3269,H,Male,2,40.5,Natural Death,356,1,6,A2904
+A3270,L,Female,1,38.4,NA,645,0,6,A2150
+A3271,L,Male,2,38.5,NA,645,0,6,A2843
+A3272,L,Female,1,37.2,NA,645,0,6,A2652
+A3273,L,Female,1,37.9,NA,645,0,6,A2652
+A3274,L,Male,1,38.7,NA,645,0,6,A2672
+A3275,H,Female,2,40.2,Natural Death,408,1,6,A2904
+A3276,L,Male,1,34,NA,645,0,6,A2169
+A3277,L,Female,1,34.1,Natural Death,381,1,6,A2672
+A3278,L,Female,1,36,NA,645,0,6,A2672
+A3279,L,Male,1,36.9,NA,645,0,6,A2652
+A3280,L,Female,2,36,NA,645,0,6,A2428
+A3281,L,Female,1,39,Natural Death,288,1,6,A2671
+A3283,L,Male,2,38.5,NA,645,0,6,A2850
+A3284,L,Female,1,38.7,Natural Death,388,1,6,A2671
+A3286,L,Male,1,39.2,NA,645,0,6,A2131
+A3287,L,Female,2,37.8,Natural Death,371,1,6,A2735
+A3288,L,Female,2,37.6,Natural Death,263,1,6,A2879
+A3289,H,Male,2,38.4,Euthanised due to health reason,645,1,6,A2734
+A3290,H,Female,2,41,Natural Death,353,1,6,A2734
+A3292,L,Male,2,36.9,NA,645,0,6,A2850
+A3293,H,Female,2,42,Natural Death,321,1,6,A2734
+A3294,H,Male,1,37.3,NA,645,0,6,A2678
+A3295,H,Female,2,37,Natural Death,303,1,6,A2865
+A3296,L,Male,2,37.2,NA,645,0,6,A2879
+A3297,H,Female,1,38.8,NA,645,0,6,A2678
+A3298,H,Male,1,39.1,NA,645,0,6,A2678
+A3301,L,Female,2,37.5,NA,645,0,6,A2735
+A3302,L,Male,2,37.6,Natural Death,375,1,6,A2292
+A3303,L,Female,1,35.4,NA,645,0,6,A2166
+A3304,L,Female,2,35.6,NA,645,0,6,A2735
+A3306,L,Female,1,34.3,Natural Death,300,1,6,A2673
+A3309,H,Female,1,37.9,Natural Death,320,1,6,A2548
+A3310,H,Female,1,39.7,Euthanised due to health reason,343,1,6,A2036
+A3311,H,Male,1,38.3,NA,645,0,6,A2524
+A3313,H,Male,2,38.2,NA,645,0,6,A2836
+A3314,H,Male,1,36.6,NA,645,0,6,A2036
+A3316,L,Female,2,37.1,Natural Death,617,1,6,A2391
+A3317,L,Male,2,37.4,NA,645,0,6,A2391
+A3318,H,Female,1,39,NA,645,0,6,A2548
+A3319,H,Male,2,37.7,NA,645,0,6,A2836
+A3320,L,Female,2,37.2,Natural Death,375,1,6,A2391
+A3321,H,Female,2,40.3,NA,645,0,6,A2279
+A3322,H,Female,1,39.3,Natural Death,369,1,6,A2524
+A3323,H,Male,1,38.6,Euthanised due to health reason,475,1,6,A2524
+A3324,L,Female,2,38.4,Natural Death,447,1,6,A2357
+A3325,H,Female,1,38.4,NA,645,0,6,A2036
+A3327,L,Female,2,36.8,NA,635,0,6,A2391
+A3328,H,Female,1,39.1,Natural Death,358,1,6,A2135
+A3329,L,Female,2,36.7,Natural Death,358,1,6,A2428
+A3331,L,Female,1,39.8,NA,635,0,6,A2108
+A3332,L,Male,2,39.6,NA,635,0,6,A2391
+A3333,L,Male,1,37.5,NA,635,0,6,A2679
+A3334,L,Female,2,34.3,Natural Death,143,1,6,A2428
+A3335,L,Male,2,38.6,NA,635,0,6,A2357
+A3336,H,Male,1,36.7,NA,635,0,6,A2135
+A3337,L,Female,2,37.6,Euthanised due to health reason,333,1,6,A2843
+A3338,L,Female,2,37.2,Natural Death,616,1,6,A2848
+A3339,L,Male,2,37.6,NA,635,0,6,A2292
+A3340,L,Male,1,38.2,NA,635,0,6,A2150
+A3341,L,Male,1,37.4,NA,635,0,6,A2042
+A3343,L,Male,1,37.7,NA,635,0,6,A2150
+A3344,H,Female,2,40.1,NA,635,0,6,A2893
+A3346,L,Female,2,38.5,Natural Death,349,1,6,A2843
+A3347,H,Male,2,38.8,NA,635,0,6,A2893
+A3349,L,Male,2,38.1,Euthanised due to health reason,459,1,6,A2848
+A3350,H,Female,2,34.3,Natural Death,32,1,6,A2398
+A3351,L,Female,1,37.1,Natural Death,359,1,6,A2042
+A3352,L,Female,2,39,Natural Death,312,1,6,A2428
+A3353,H,Male,2,37.4,Natural Death,555,1,6,A2384
+A3354,L,Male,2,37.9,NA,635,0,6,A2357
+A3356,L,Male,1,36.2,NA,635,0,6,A2108
+A3357,L,Female,1,37.8,NA,635,0,6,A2166
